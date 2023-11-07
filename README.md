@@ -28,3 +28,6 @@
 
     <h2>📫 Contacto</h2>
     <p>Puedes contactarme a través de mi correo electrónico: anngues95@gmail.com.
+
+    </body>
+</html>
